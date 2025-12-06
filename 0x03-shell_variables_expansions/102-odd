@@ -1,3 +1,2 @@
 #!/bin/bash
-# 102-odd: Print every other line starting with the first line
 perl -lne 'print if $. % 2 == 1'

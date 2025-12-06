@@ -1,3 +1,2 @@
 #!/bin/bash
-# 3-paths: Count number of directories in PATH
 echo $PATH | tr ':' '\n' | wc -l

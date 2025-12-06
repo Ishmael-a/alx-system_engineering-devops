@@ -1,3 +1,2 @@
 #!/bin/bash
-# 8-true_knowledge: Add 128 to TRUEKNOWLEDGE variable
 echo $((128 + TRUEKNOWLEDGE))
