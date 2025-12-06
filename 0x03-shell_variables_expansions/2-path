@@ -1,0 +1,3 @@
+#!/bin/bash
+# 2-path: Add /action to the end of PATH
+export PATH="$PATH:/action"

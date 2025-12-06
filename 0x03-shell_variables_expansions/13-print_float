@@ -1,0 +1,3 @@
+#!/bin/bash
+# 13-print_float: Print number with 2 decimal places
+printf "%.2f\n" $NUM

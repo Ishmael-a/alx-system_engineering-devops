@@ -1,0 +1,3 @@
+#!/bin/bash
+# 101-rot13: Encode/decode text using rot13 encryption
+tr 'A-Za-z' 'N-ZA-Mn-za-m'

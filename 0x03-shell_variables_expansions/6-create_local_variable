@@ -1,0 +1,3 @@
+#!/bin/bash
+# 6-create_local_variable: Create a local variable BEST=School
+BEST="School"
